@@ -1,0 +1,6 @@
+std_msgs/Header header
+bool updatedonce
+ros2_pyg3_common/Point2D topleft
+ros2_pyg3_common/Point2D topright
+ros2_pyg3_common/Point2D bottomleft
+ros2_pyg3_common/Point2D bottomright

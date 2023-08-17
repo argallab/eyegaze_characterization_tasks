@@ -1,0 +1,10 @@
+std_msgs/Header header
+float64 g3_time
+ros2_pyg3_common/Point2D gaze2d
+geometry_msgs/Point gaze3d
+geometry_msgs/Point eyeleft_gazeorigin
+geometry_msgs/Point eyeright_gazeorigin
+geometry_msgs/Vector3 eyeleft_gazedirection
+geometry_msgs/Vector3 eyeright_gazedirection
+float64 eyeleft_pupildiameter
+float64 eyeright_pupildiameter
